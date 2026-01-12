@@ -49,7 +49,7 @@ Clone the repository:
 
 Bash
 
-git clone "https://github.com/your-username/2care-ai.git](https://github.com/harshini-01-2005/digital-health-wallet.git"
+git clone https://github.com/harshini-01-2005/digital-health-wallet
 
 cd digital-health-wallet
 Setup Backend:
