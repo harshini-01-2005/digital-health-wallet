@@ -49,8 +49,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/2care-ai.git
-cd 2care-ai
+git clone "https://github.com/your-username/2care-ai.git](https://github.com/harshini-01-2005/digital-health-wallet.git"
+cd digital-health-wallet
 Setup Backend:
 
 Bash
@@ -69,7 +69,7 @@ npm start
 📂 Project Structure
 Plaintext
 
-2care-ai/
+digital-health-wallet/
 ├── backend/
 │   ├── uploads/          # Stored medical files
 │   ├── server.js         # Express API & Routes
@@ -87,10 +87,6 @@ Authentication Failed / Route Not Responding?
 Ensure the backend server is running on port 5000.
 
 Delete node_modules and run npm install again if moving code between different operating systems.
-
-Clear your browser's Local Storage (Inspect -> Application -> Clear Storage).
-
-Delete health.db and restart the server to refresh the database schema.
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
