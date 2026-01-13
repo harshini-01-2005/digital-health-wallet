@@ -75,13 +75,16 @@ digital-health-wallet/
 │   ├── uploads/          # Stored medical files
 │   ├── server.js         # Express API & Routes
 │   ├── db.js             # SQLite Database Schema
-│   └── health.db         # Local Database file
+│ └── health.db           # Local Database file
+|
+|
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js        # Main Dashboard UI
 │   │   └── VitalsChart.js # Trend Visualization Component
 │   └── package.json
 └── README.md
+
 🔧 Troubleshooting
 Authentication Failed / Route Not Responding?
 
