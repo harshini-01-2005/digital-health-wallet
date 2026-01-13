@@ -91,6 +91,3 @@ Authentication Failed / Route Not Responding?
 Ensure the backend server is running on port 5000.
 
 Delete node_modules and run npm install again if moving code between different operating systems.
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
